@@ -7,6 +7,6 @@
         android:id="@+id/second_image"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/preview"
+        android:src="@drawable/full"
         android:transitionName="1" />
 </android.support.constraint.ConstraintLayout>
